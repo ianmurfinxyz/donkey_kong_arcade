@@ -28,7 +28,10 @@ The game also dynamically resizes with window size, with the entire game being d
 and then scaled up to the largest size that will fit (centered) in the window. This allows the game to be played
 fullscreen on any size monitor.
 
-*Click this [Youtube link](https://github.com/ianmurfinxyz) for a video playthrough of the game.*
+*Click this [Youtube link](https://www.youtube.com/watch?v=Hm3gQ7G5vNY&t=471s) for a video playthrough of the game.*
+
+There are also some other play throughs on my channel too, all just as nooby :smiley:, and yes I am aware there are a
+few bugs left in the code, notably with the high score table. I will probably fix them at some point.
 
 **Disclaimer: The assets have been stripped from this repo so as to not transgress Nintendo's 
 copyright. This project was made purely for my own entertainment and is not for 
