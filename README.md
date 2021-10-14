@@ -6,7 +6,7 @@ Windows and Linux. Implemented in C++ using Allegro5.
 I tried to keep this project authentic to the original and so the mechanics were programmed using reference to 
 various sites which break down how the original source worked along with my own observations from videos on 
 Youtube. Hence, some of the mechanics are accurate (like the rolling barrels) and some are similar but not
-accurate (like the wild barrels). The gameplay 'feel' is also similar but not accurate, so mario likely runs
+accurate (like the wild barrels). The gameplay 'feel' is also similar but not perfectly accurate, so mario likely runs
 and jumps at a slightly different rate etc. I have also made changes (hopefully improvements) to make the
 controls less clunky.
 
@@ -24,7 +24,10 @@ Features include:
 - Lives system.
 - and more.
 
-The game also dynamically resizes with window size, with the entire game being drawn to a 224x256px back buffer
+I also included some of the quirks of the original such as being able to get score by jumping next to but not 
+over mobs (including Kong).
+
+The game dynamically resizes with window size, with the entire game being drawn to a 224x256px back buffer
 and then scaled up to the largest size that will fit (centered) in the window. This allows the game to be played
 fullscreen on any size monitor.
 
